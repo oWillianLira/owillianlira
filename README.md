@@ -15,4 +15,4 @@
 <ul>
   <li>React JS</li>
 </ul>
-<h3>Do you want more info? Visit my website: <a target="_blank" href="https://owillianlira.com/">owillianlira.com</a>🔗</h3>
+<h3>Do you want more info? Visit my website: <a href="https://owillianlira.com/">owillianlira.com</a>🔗</h3>
