@@ -1,5 +1,5 @@
 <h2>Hello there, It's good to see you here!</h2>
-<h4>👨🏻‍💻 I'm a Front-End Web Developer, currently working as WordPress Developer for RegiÔtels</h4>
+<h4>👨🏻‍💻 I'm a Front-End Web Developer, currently working as WordPress Developer for <a href="https://www.regiotels.com/" target="_blank">RegiÔtels</a></h4>
 <br>
 <h4>Experience with:</h4>
 <ul>
