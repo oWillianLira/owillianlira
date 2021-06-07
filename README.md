@@ -14,5 +14,6 @@
 <h4>Currently studying:</h4>
 <ul>
   <li>React JS</li>
+  <li>Sass</li>
 </ul>
 <h3>Do you want more info? Visit my website: <a href="https://owillianlira.com/en">owillianlira.com</a>🔗</h3>
