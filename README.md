@@ -17,3 +17,11 @@
   <li>Sass</li>
 </ul>
 <h3>Do you want more info? Visit my website: <a href="https://owillianlira.com/en">owillianlira.com</a>🔗</h3>
+
+<style>
+h4 {
+  border-bottom: solid 1px;
+  max-width: 350px;
+  padding-bottom: 5px;  
+}
+</style>
