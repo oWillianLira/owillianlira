@@ -5,8 +5,8 @@
 <ul>
   <li>HTML + CSS</li>
   <li>JavaScript ES6</li>
-  <li>WordPress + PHP</li>
-  <li>Bootstrap + UIKit</li>
+  <li>WordPress + PHP + ReactJS</li>
+  <li>Bootstrap</li>
   <li>jQuery</li>
   <li>Git</li>
   <li>Adobe XD + Figma</li>
@@ -15,6 +15,7 @@
 <ul>
   <li>ReactJS + NextJS</li>
   <li>Sass</li>
+  <li>WP Gutenberg Blocks</li>
 </ul>
 <h3>Do you want more info? Visit my website: <a href="https://owillianlira.com/en">owillianlira.com</a>🔗</h3>
 
