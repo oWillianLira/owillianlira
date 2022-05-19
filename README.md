@@ -1,5 +1,5 @@
-<h2>➢ Front-End Developer, currently working for Stefanini / Gauge / BTG Pactual</h2>
-<br>
+<h2>➢ Front-End Developer at BTG Pactual > Gauge > Stefanini Group</h2>
+<br />
 <h4>Experience with:</h4>
 <ul>
   <li>HTML + CSS</li>
@@ -17,6 +17,7 @@
 <ul>
   <li>ReactJS + NextJS</li>
   <li>Sass</li>
-  <li>AngularJS</li>
+  <li>Angular 2+</li>
 </ul>
+<br />
 <h3>Do you want more info? Visit my website: <a href="https://owillianlira.com/">owillianlira.com</a>🔗</h3>
