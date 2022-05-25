@@ -1,4 +1,4 @@
-<h2>➢ Front-End Developer at BTG Pactual > Gauge > Stefanini Group</h2>
+<h2>➢ Front-End Developer at Stefanini > Gauge > BTG Pactual</h2>
 <br />
 <h4>Experience with:</h4>
 <ul>
@@ -15,7 +15,7 @@
 </ul>
 <h4>Currently studying:</h4>
 <ul>
-  <li>ReactJS + NextJS</li>
+  <li>ReactJS / NextJS</li>
   <li>Sass</li>
   <li>Angular 2+</li>
 </ul>
