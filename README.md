@@ -1,5 +1,7 @@
 <h2>➢ Front-End Developer at BTG Pactual</h2>
 <br />
+<p>I work for a bank, so we only use confidential GitHub accounts and repositories. So this repository does not contain my work.</p>
+<br />
 <h4>Experience with:</h4>
 <ul>
   <li>HTML + CSS</li>
