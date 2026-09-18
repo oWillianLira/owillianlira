@@ -1,97 +1,151 @@
 <h1 align="center">Hi, I'm Willian Lira 👋</h1>
 
 <p align="center">
-  <strong>Front-End Developer</strong> · Angular · WordPress
+  <strong>Front-End Developer</strong>
 </p>
 
 <p align="center">
-  🇧🇷 Based in Brazil · 🌎 Open to international opportunities
+  Angular • WordPress • JavaScript
+</p>
+
+<p align="center">
+  🇧🇷 Brazil &nbsp;·&nbsp; 🌎 Open to international opportunities
 </p>
 
 <br />
 
 <p align="center">
-  I’m a Front-End Developer focused on building modern, scalable and user-friendly web experiences.
-  <br />
-  My main areas of expertise are <strong>Angular</strong> and <strong>WordPress</strong>, with a strong foundation in JavaScript, HTML and CSS.
+  <em>
+    Building modern, scalable and user-focused web experiences.
+  </em>
 </p>
 
-<br />
+---
 
-<h2>💼 About me</h2>
+## 👨‍💻 About Me
+
+I'm a **Front-End Developer** currently working at **BTG Pactual**, focused on building modern web applications and interfaces.
+
+My main areas of expertise are **Angular** and **WordPress**, backed by a strong foundation in JavaScript, HTML and CSS.
+
+Most of my professional work is maintained in private repositories due to confidentiality requirements, so this GitHub profile does not represent the full scope of my professional experience.
+
+Outside of work, I use GitHub to explore technologies, experiment with new ideas and build personal projects.
+
+---
+
+## 🧩 Tech Stack
+
+### ⚡ Core
 
 <p>
-  I currently work as a Front-End Developer at <strong>BTG Pactual</strong>.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
 </p>
 
+### 🎨 UI & Styling
+
 <p>
-  Most of my professional work is maintained in private repositories due to confidentiality requirements,
-  so this GitHub profile does not represent the full scope of my professional experience.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
 
+### 🌐 Web & CMS
+
 <p>
-  Outside of my professional work, I use this space to explore technologies, build personal projects
-  and keep up with modern web development practices.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
 </p>
 
-<br />
-
-<h2>🛠️ Tech Stack</h2>
+### 🧰 Tools & Workflow
 
 <p>
-  <strong>Front-End</strong><br />
-  HTML · CSS · JavaScript · TypeScript · Angular · React · Next.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" />
 </p>
 
-<p>
-  <strong>Styling & UI</strong><br />
-  Sass · Tailwind CSS · Bootstrap · Figma
-</p>
+---
 
-<p>
-  <strong>CMS & Back-End</strong><br />
-  WordPress · PHP · Gutenberg
-</p>
+## 🚀 What I Like Building
 
-<p>
-  <strong>Tools & Workflow</strong><br />
-  Git · GitHub · Docker · Vite
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Modern Front-End</h3>
+      <p>
+        Scalable applications, reusable components and clean front-end architectures.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🌐 WordPress</h3>
+      <p>
+        Custom themes, Gutenberg blocks and flexible content-driven websites.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎨 UI & UX</h3>
+      <p>
+        Responsive interfaces with attention to usability, accessibility and visual consistency.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🧪 Experiments</h3>
+      <p>
+        Personal projects where I explore new technologies and development workflows.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br />
+---
 
-<h2>🚀 What I enjoy building</h2>
+## 🌱 Currently Exploring
 
-<ul>
-  <li>Modern and responsive web applications</li>
-  <li>Reusable and maintainable front-end architectures</li>
-  <li>WordPress themes and custom solutions</li>
-  <li>Component-based interfaces and design systems</li>
-  <li>Accessible and user-focused experiences</li>
-</ul>
+```text
+Modern WordPress Development
+Gutenberg & Custom Blocks
+Docker-based Development
+Vite & Modern Front-End Tooling
+Scalable Front-End Architecture
+```
 
-<br />
+<!--
+---
 
-<h2>🌱 Currently exploring</h2>
+## 📌 Featured Projects
 
-<p>
-  Modern WordPress development, Gutenberg blocks, Docker-based workflows
-  and more robust front-end architectures.
-</p>
+> Most of my professional projects are private.
+> Here you'll find personal projects and experiments that represent what I'm currently learning and building.
 
-<br />
+<!-- Add your public projects here -->
 
-<h2>🌎 Let's connect</h2>
+---
 
-<p>
-  I'm based in Brazil and open to connecting with developers, companies and teams
-  around the world.
-</p>
+## 🌎 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://owillianlira.vercel.app/" target="_blank">
-    🌐 Portfolio
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/owillianlira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  🇧🇷 Based in Brazil &nbsp;•&nbsp; 🌎 Open to international opportunities
 </p>
 
 <br />
@@ -99,4 +153,3 @@
 <p align="center">
   <i>Thanks for stopping by!</i> 👋
 </p>
-
